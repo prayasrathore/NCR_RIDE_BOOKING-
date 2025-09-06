@@ -4,6 +4,13 @@ NCR Ride Analytics Dataset 2024 (UBER) The dataset comprises comprehensive ride-
 📊 Dataset Overview
 The dataset records 148,770 ride transactions across diverse vehicle segments, offering a comprehensive snapshot of Uber’s 2024 operations. It highlights ride completions, cancellation trends, customer interaction patterns, and revenue dynamics, providing actionable insights into both operational efficiency and user experience.
 
+#QUESTIONS WE TRY TO ANSWER
+1. What are the busiest times and locations for Uber rides in NCR?
+2. Which drivers or vehicle types have the highest ratings and completion rates?
+3. Where do cancellations most frequently occur, and why?
+
+
+
 Data Schema
 The dataset contains the following columns:
 
