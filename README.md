@@ -1,5 +1,5 @@
 # NCR_RIDE_BOOKING-
-![Uber Logo](https://1000logos.net/wp-content/uploads/2017/05/Uber-Logo.png)
+![Uber Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg/500px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg)
 
 NCR Ride Analytics Dataset 2024 (UBER) The dataset comprises comprehensive ride-sharing records from Uber’s 2024 operations, offering valuable insights into booking trends, vehicle efficiency, revenue generation, cancellation patterns, and customer satisfaction.
 
